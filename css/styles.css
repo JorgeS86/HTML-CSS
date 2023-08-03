@@ -1,0 +1,16 @@
+*{
+    color: red;
+    font-family: arial;
+}
+li{
+    color: blue;
+}
+.txt01{
+    color: cadetblue;
+}
+.txt02{
+    color: black;
+}
+#prueba{
+    color: darkgreen;
+}

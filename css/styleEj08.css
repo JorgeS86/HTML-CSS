@@ -1,0 +1,14 @@
+/* link sin visitar */
+a:link {
+color:#CC0000;
+}
+
+/* mouse sobre el link*/
+a:hover {
+color: #FFF;
+background-color: #CC0000;
+}
+/* link clickeado */
+a:active {
+color:  #CCC;
+}
